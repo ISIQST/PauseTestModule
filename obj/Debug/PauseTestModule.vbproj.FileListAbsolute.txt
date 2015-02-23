@@ -1,0 +1,11 @@
+C:\Documents\Projects\NET\PauseTestModule.dll
+C:\Documents\Projects\NET\PauseTestModule.pdb
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\PauseTestModule\obj\Debug\PauseTestModule.Resources.resources
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\PauseTestModule\obj\Debug\PauseTestModule.dll
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\PauseTestModule\obj\Debug\PauseTestModule.pdb
+C:\Documents\Visual Studio 2010\Projects\NET\PauseTestModule.dll
+C:\Documents\Visual Studio 2010\Projects\NET\PauseTestModule.pdb
+C:\Documents\Visual Studio 2010\Projects\PauseTestModule\PauseTestModule\obj\Debug\PauseTestModule.Resources.resources
+C:\Documents\Visual Studio 2010\Projects\PauseTestModule\PauseTestModule\obj\Debug\PauseTestModule.dll
+C:\Documents\Visual Studio 2010\Projects\PauseTestModule\PauseTestModule\obj\Debug\PauseTestModule.pdb
+C:\Documents\Visual Studio 2010\Projects\NET\PauseTestModule.mda
