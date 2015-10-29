@@ -4,7 +4,6 @@
     Private assyName$ = "PauseTestModule"
     Public Property ModuleDescr() As String = "pause test module"
     Public Property ModuleID() As String = assyName
-    Public TemplateDB$ = "PauseTestModule.mda"
     Public Manufacturer$ = "Integral Solutions Int'l"
     Public AppDataPath$ = ""
 
@@ -19,7 +18,6 @@
         QST = q
         GetAppDataPath()
         'add tables needed for pause test module
-        Quasi97.ADOUtils.SynchronizeDatabases(AppDataPath & "\" & TemplateDB, QST.QuasiParameters.SetupTmpFileName)
         QST.QuasiParameters.RegisterTestClassNET(clsTest.SharedTestID, assyName, assyName & ".clsTest", My.Resources.Hourglass, "Quasi97.ucGenericNoGraph")
 
     End Sub

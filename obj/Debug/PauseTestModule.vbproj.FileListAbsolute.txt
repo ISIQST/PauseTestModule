@@ -8,4 +8,9 @@ C:\Documents\Visual Studio 2010\Projects\NET\PauseTestModule.pdb
 C:\Documents\Visual Studio 2010\Projects\PauseTestModule\PauseTestModule\obj\Debug\PauseTestModule.Resources.resources
 C:\Documents\Visual Studio 2010\Projects\PauseTestModule\PauseTestModule\obj\Debug\PauseTestModule.dll
 C:\Documents\Visual Studio 2010\Projects\PauseTestModule\PauseTestModule\obj\Debug\PauseTestModule.pdb
-C:\Documents\Visual Studio 2010\Projects\NET\PauseTestModule.mda
+C:\Projects\Samples\PauseTestModule\obj\Debug\PauseTestModule.Resources.resources
+C:\Projects\Samples\PauseTestModule\obj\Debug\PauseTestModule.vbproj.GenerateResource.Cache
+C:\Projects\Samples\PauseTestModule\obj\Debug\PauseTestModule.dll
+C:\Projects\Samples\PauseTestModule\obj\Debug\PauseTestModule.pdb
+C:\isisandbox\.net\PauseTestModule.dll
+C:\isisandbox\.net\PauseTestModule.pdb

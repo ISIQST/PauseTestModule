@@ -24,7 +24,7 @@
     <DebugType>full</DebugType>
     <DefineDebug>false</DefineDebug>
     <DefineTrace>false</DefineTrace>
-    <OutputPath>..\..\..\..\..\..\Documents\Visual Studio 2010\Projects\NET\</OutputPath>
+    <OutputPath>..\..\..\isisandbox\.net\</OutputPath>
     <DocumentationFile>
     </DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
@@ -56,7 +56,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Quasi97">
-      <HintPath>..\..\NET\Quasi97.dll</HintPath>
+      <HintPath>..\..\..\Program Files (x86)\Integral Solutions Int'l\.NET\Quasi97.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
@@ -117,9 +117,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <None Include="PauseTestModule.mda">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Include="Resources\Hourglass.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />

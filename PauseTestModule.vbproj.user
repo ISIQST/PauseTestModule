@@ -2,6 +2,6 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <StartAction>Program</StartAction>
-    <StartProgram>C:\Documents\Visual Studio 2010\Projects\NET\QuasiStarter.exe</StartProgram>
+    <StartProgram>c:\isisandbox\.NET\QuasiStarter.exe</StartProgram>
   </PropertyGroup>
 </Project>
