@@ -1,6 +1,0 @@
-C:\Documents\Visual Studio 2010\Projects\PauseTestModule\PauseTestModule\bin\PauseTestModule.dll
-C:\Documents\Visual Studio 2010\Projects\PauseTestModule\PauseTestModule\bin\PauseTestModule.pdb
-C:\Documents\Visual Studio 2010\Projects\PauseTestModule\PauseTestModule\obj\Release\PauseTestModule.Resources.resources
-C:\Documents\Visual Studio 2010\Projects\PauseTestModule\PauseTestModule\obj\Release\PauseTestModule.dll
-C:\Documents\Visual Studio 2010\Projects\PauseTestModule\PauseTestModule\obj\Release\PauseTestModule.pdb
-C:\Documents\Visual Studio 2010\Projects\PauseTestModule\PauseTestModule\bin\PauseTestModule.mda
